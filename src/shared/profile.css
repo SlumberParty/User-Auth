@@ -1,0 +1,9 @@
+ img {
+    height: 50px;
+    width: auto;
+}
+
+button {
+    background-color: rgb(252, 133, 192);
+    border-radius: 10px;
+}
