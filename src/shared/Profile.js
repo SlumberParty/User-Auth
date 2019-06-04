@@ -26,7 +26,7 @@ class Profile extends Component {
 
         return /*html*/`
             <div class="profile">
-                <img id="avatar" src="${avatar}">
+                <img src="${avatar}">
                 <span>${user.displayName}</span>
                 <button>Sign Out</button>
             </div>
