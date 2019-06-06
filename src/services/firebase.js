@@ -10,7 +10,7 @@ const config = {
 };
 
   // Initialize Firebase
-firebase.initializeApp(config);
+export const app = firebase.initializeApp(config);
 
 export const auth = firebase.auth();
 
