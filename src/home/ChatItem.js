@@ -1,5 +1,4 @@
 import Component from '../Component.js';
-import ChatList from './ChatList.js';
 import { roomsRef } from '../services/firebase.js';
 
 class ChatItem extends Component {
